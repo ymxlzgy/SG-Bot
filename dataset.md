@@ -1,5 +1,5 @@
 # SG-Bot Dataset
-### Download link: [sgbot_dataset.zip](https://www.campar.in.tum.de/public_datasets/2024_echoscene/sgbot_dataset.zip) (~55G).
+### Download link: [sgbot_dataset.zip](https://www.campar.in.tum.de/public_datasets/2023_sgbot_zhai/sgbot_dataset.zip) (~55G).
 
 The dataset serves mainly for [object rearrangement research](https://arxiv.org/abs/2011.01975), but can also be used to do other areas, e.g., object segmentation, depth estimation, robotic grasping, scene graph, and language-guided tasks. It is collected by placing availble meshes from [Google Scanned Objects](https://research.google/blog/scanned-objects-by-google-research-a-dataset-of-3d-scanned-common-household-items/) and [HouseCat6D](https://sites.google.com/view/housecat6d) on tabletop scenarios physically checked by [Pybullet](https://pybullet.org/wordpress/) and rendered by [NViSII](https://github.com/owl-project/NVISII).
 
