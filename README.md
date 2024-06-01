@@ -16,7 +16,7 @@ python setup.py install
 ```
 Please also install [Pytorch](https://pytorch.org/). We test it with Pytorch 1.12.1 with CUDA 11.6.
 ## Dataset
-Please refer to [this page](./dataset.md) for downloading the data used in the paper and more information.
+Please refer to [this page](https://sites.google.com/view/sg-bot/dataset) for downloading the data used in the paper and more information.
 
 ## Module Instruction
 ### Shape autoencoders
